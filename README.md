@@ -14,7 +14,7 @@ MD simulations of worm-like chains within polymerized elastic shells.
 The required Python modules not included in the built-in standard library (`GPUtil`, `gsd`, `scipy`) may be installed in the ordinary fashion through the `pip` package manager,
 
 ~~~shell
-<path_to_python> -m pip install <module>
+<path_to_python> -m pip install -r requirements.txt
 ~~~
 
 
